@@ -21,7 +21,7 @@ class Obsidian extends Solid{
 	}
 
 	public function getHardness(){
-		return 35;
+		return 10;
 	}
 
 	public function getDrops(Item $item){
